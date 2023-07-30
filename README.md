@@ -5,7 +5,7 @@ Welcome to this GitHub repository! If you're interested in learning how to colla
 ## Getting Started
 
 1. 🍴 Fork this repository by clicking on the "Fork" button at the top right corner of the page. This will create a copy of the repository under your GitHub account.
-
+ 
 2. 📂 If you prefer, you can also add files directly on the GitHub web interface by navigating to the desired location within the repository and clicking on the "Add file" button. You can add any type of code or even create an `README.md` file to introduce yourself.
 
 3. ✏️ Once you have made the changes or added the desired files, it's time to commit your changes. Provide a meaningful commit message that describes the changes you made. This will help others understand the purpose of your contribution.
