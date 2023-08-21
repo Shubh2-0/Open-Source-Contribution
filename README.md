@@ -3,7 +3,7 @@
 Welcome to this GitHub repository! If you're interested in learning how to collaborate on GitHub and make open source contributions, you're in the right place. This repository provides a simple guide to help you get started. Follow the steps below:
 
 ## Getting Started
-
+ 
 1. 🍴 Fork this repository by clicking on the "Fork" button at the top right corner of the page. This will create a copy of the repository under your GitHub account.
  
 2. 📂 If you prefer, you can also add files directly on the GitHub web interface by navigating to the desired location within the repository and clicking on the "Add file" button. You can add any type of code or even create an `README.md` file to introduce yourself.
