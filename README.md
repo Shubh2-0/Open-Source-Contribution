@@ -21,3 +21,4 @@ Welcome to this GitHub repository! If you're interested in learning how to colla
 ## Conclusion
 
 Making open source contributions is a great way to learn, collaborate, and contribute to the wider developer community. We hope this guide has provided you with a clear path to get started. Remember, open source is all about collaboration and learning from each other. Happy contributing! 🌟
+
